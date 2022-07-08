@@ -1,0 +1,16 @@
+material UI
+firebase
+react router dom
+
+npm i firebase
+
+firebase login
+
+firebase init Hosting
+
+build
+
+npm run build
+
+Project Console: https://console.firebase.google.com/project/whats-app-clone-67f99/overview
+Hosting URL: https://whats-app-clone-67f99.web.app
